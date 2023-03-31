@@ -20,4 +20,11 @@
 
 ![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/Database-Copy-Statistics.jpg)
 
+- Для экспорта почтового ящика в PST-файла, необходимо выбрать **AccountName** в таблице **Users**
 > Предварительно необходимо настроить для подключемого Exchange-сервера права доступа на запись к конечному пути экспорта. Для удобства, я создал ярлык на рабочем столе к коечному каталогу.
+
+![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/PST-Export.jpg)
+
+- Для получения списка всех заданий, воспользуйтесь кнопкой **PST Status** контекстного меню. Для остановки и очистки заданий: **PST Request Clear**
+
+![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/PST-Status.jpg)
