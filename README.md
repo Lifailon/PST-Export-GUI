@@ -10,6 +10,10 @@
 
 ![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/Server-List-2010-2016.jpg)
 
+- Вывод **Message Tracking Log** за сутки и неделю с возможностью сортировки и поиска.
+
+![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/MessageTrackingLog.jpg)
+
 - Выводит список всех пользователей на выбранном сервере или базе данных (**Users on Server**), с выводом настроенных квот на каждый Mailbox и датой создания пользователя в AD и почтового ящика.
 
 ![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/User-List.jpg)
