@@ -10,7 +10,8 @@
 
 ![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/Server-List-2010-2016.jpg)
 
-- Вывод **Message Tracking Log (v. 1.1)** за сутки и неделю с возможностью сортировки и поиска.
+- Вывод **Message Tracking Log** за сутки и неделю с возможностью сортировки и поиска.
+> добавлено в версии 1.1
 
 ![Image alt](https://github.com/Lifailon/PST-Export-GUI/blob/rsa/Image/MessageTrackingLog.jpg)
 
